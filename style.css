@@ -614,20 +614,20 @@ h5 {
 
 
     .carousel-inner {
-        margin-left: 70px;
+        margin-left: 5px;
         width: 250px;
-        height: 130px;
+        height: 150px;
     }
     
     .slideImage {
         width: 250px;
-        height: 130px;
+        height: 150px;
     }
 
     .carousel-indicators {
         width: 50px;
         margin-bottom: 10px;
-        margin-left: 145px;
+        margin-left: 120px;
     
 }
 
